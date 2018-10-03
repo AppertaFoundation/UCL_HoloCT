@@ -6,6 +6,11 @@ Made in collaboration with Great Ormond Street Hospital, NHS ‘Digital Research
 Video demonstration here: <br>
 https://youtu.be/nXyaozmQpT8 <br>
 
+## Authors <br>
+This project was developed by UCL Computer Science students as part of the UCL Industry Exchange Network (http://ixn.org.uk) which pairs university students with industry as part of their curriculum.<br>
+Inventor and project lead - Dr Dean Mohamedally, d.mohamedally@ucl.ac.uk<br>
+MSc Student - Dr Caroline Smith
+
 ## Code and Storage <br>
 Key files are in the assets folder, with the following structure: <br>
 /Assets <br>
